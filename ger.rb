@@ -97,7 +97,7 @@ end
 #add_s_advanced(words)
 
 print [1,2].each_with_index.collect{|element, index| 
-  if element == 
+  if element == 2
   element
   else
   element.to_s + "s" 
